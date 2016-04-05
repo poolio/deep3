@@ -3,3 +3,4 @@
 
 deep neural networks mapping from positions to colors
 
+![](https://github.com/poolio/deep3/raw/master/example.gif)
