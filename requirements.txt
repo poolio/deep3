@@ -1,0 +1,4 @@
+git+https://github.com/Theano/Theano.git
+git+https://github.com/fchollet/keras.git@keras-1
+moviepy
+
